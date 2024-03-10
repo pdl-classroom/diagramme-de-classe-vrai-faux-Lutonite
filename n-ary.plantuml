@@ -1,0 +1,13 @@
+@startuml
+class Professeur
+
+class Discipline
+
+class Etudiant
+
+<> nary
+
+Professeur "1" -- nary
+nary -- "5..30" Etudiant
+nary -- "*" Discipline
+@enduml

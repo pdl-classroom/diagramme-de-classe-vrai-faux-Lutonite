@@ -25,3 +25,5 @@ Représentez la même association avec la notation UML « petit losange »
 - Quelles informations perd-on par rapport au diagramme ci-dessus ?
 > La classe "Cours" n'est plus représentée textuellement parlant, mais les contraintes données sont toujours
 > présentes et valides.
+
+![N-ary Association](n-ary.png)
